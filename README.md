@@ -40,7 +40,6 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 - `src/App.js`: Main component containing the user profile card logic and layout
 - `src/hooks/useFetch.js`: Custom hook for data fetching (if used)
 - `public/index.html`: HTML template
-- `tailwind.config.js`: Tailwind CSS configuration
 
 ## Dependencies
 
