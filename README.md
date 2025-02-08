@@ -6,7 +6,7 @@ This project is a React application that fetches random user data from an API an
 
 ## Features
 
-- Fetches random user data from the [Random User Generator API](https://randomuser.me/)
+- Fetches random user data from the [Random User Generator API]([https://randomuser.me/](https://randomuser.me/api/?page=1&results=1&seed=abc))
 - Displays user information in a responsive, styled card layout
 - Implements loading and error states for improved user experience
 - Utilizes React hooks for state management and side effects
